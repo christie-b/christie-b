@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/cboutier)](https://github.com/JaeSeoKim/badge42)
+[![cboutier's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1f9y1k8000609jsc4a29jay?cursusId=21)](https://github.com/JaeSeoKim/badge42)
 <!--
 **christie-b/christie-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
